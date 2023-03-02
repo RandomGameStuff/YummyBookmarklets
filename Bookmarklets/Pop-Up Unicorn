@@ -1,0 +1,1 @@
+javascript:(function(){var newScript = document.createElement('script');newScript.src = '//matthew.reidsrow.com/courseware/vendortools/js/bookmarklet.js';document.body.appendChild(newScript);})();
